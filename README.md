@@ -1,13 +1,14 @@
 # 👋 Hola, soy Luisin
 
-🎓 Estudiante de Ingeniería en Software  
-💻 Programador en C# | WinForms | .NET  
+🎓 Estudiante de Ingeniería de Software  
+💻 Programador en C# 
 
 ---
 
 ## 🚀 Sobre mí
-- Actualmente en 2do semestre de Ingeniería en Software
+- Actualmente en 2do semestre de Ingeniería de Software
 - Me gusta crear aplicaciones educativas y proyectos prácticos, o aveces tonterías con amigos
+- Tambien
 
 ---
 
