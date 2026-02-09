@@ -27,7 +27,6 @@
 - 📚 **Edufy** – Software educativo de Ciencias Naturales en C#
 
 ---
----
 ## ⭐ Extras
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/luisyepez221/)
