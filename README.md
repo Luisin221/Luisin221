@@ -38,10 +38,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luisin221&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Luisin221&theme=tokyonight)
 
 </div>
