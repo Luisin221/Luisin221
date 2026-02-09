@@ -44,5 +44,5 @@
 
 ---
 ## 📫 Contacto
-- 📨 luisyepez221@gmail.com
+- :Email: luisyepez221@gmail.com
 
