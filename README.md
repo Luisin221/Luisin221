@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Luisin
 
-<!--
-**Luisin221/Luisin221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Software  
+💻 Programador en C# | WinForms | .NET  
+🇪🇨 Ecuador  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- Actualmente en 2do semestre de Ingeniería en Software
+- Me gusta crear aplicaciones educativas y proyectos prácticos, o aveces tonterías con amigos
+- Aprendiendo cada día un poco más 
+
+---
+
+## 🛠️ Tecnologías
+- C#
+- .NET / WinForms
+- HTML, CSS, JavaScript (medio)
+- Python (básico)
+
+---
+
+## 📌 Proyectos destacados o decentes XD
+- 🍼 **BabyCareBox** – App móvil para padres primerizos  
+- 📚 **Edufy** – Software educativo de Ciencias Naturales en C#
+
+---
+
+## 📫 Contacto
+- 📧 Email: luisyepez221@gmail.com
+- 🎥 YouTube: luisyepez221
