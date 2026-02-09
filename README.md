@@ -43,6 +43,6 @@
 </div>
 
 ---
-## 📫 Contacto
-- :Email: luisyepez221@gmail.com
+## ✉ Contacto
+- Email: luisyepez221@gmail.com
 
