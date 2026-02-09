@@ -21,21 +21,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 </div>
 
-
----
-## ⭐ Extras
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/luisyepez221/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@luisyepez221)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wrXVxTaTVB)
-
 ---
 ## 📌 Proyectos destacados o decentes XD
 - 🍼 **BabyCareBox** – App móvil para padres primerizos  
 - 📚 **Edufy** – Software educativo de Ciencias Naturales en C#
 
 ---
+---
+## ⭐ Extras
 
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/luisyepez221/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@luisyepez221)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wrXVxTaTVB)
+---
 ## 📫 Contacto
 - 📧 Email: luisyepez221@gmail.com
 - 🎥 YouTube: luisyepez221
