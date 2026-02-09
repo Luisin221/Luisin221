@@ -2,14 +2,12 @@
 
 🎓 Estudiante de Ingeniería en Software  
 💻 Programador en C# | WinForms | .NET  
-🇪🇨 Ecuador  
 
 ---
 
 ## 🚀 Sobre mí
 - Actualmente en 2do semestre de Ingeniería en Software
 - Me gusta crear aplicaciones educativas y proyectos prácticos, o aveces tonterías con amigos
-- Aprendiendo cada día un poco más 
 
 ---
 
@@ -22,8 +20,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 </div>
-
+## ⭐Destacados
 ![C#](https://img.shields.io/badge/C%23-.NET-purple)
+
 ---
 
 ## 📌 Proyectos destacados o decentes XD
