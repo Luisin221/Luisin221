@@ -23,8 +23,11 @@
 
 
 ---
-## ⭐Destacados
-![C#](https://img.shields.io/badge/C%23-.NET-purple)
+## ⭐ Extras
+
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/luisyepez221/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@luisyepez221)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wrXVxTaTVB)
 
 ---
 ## 📌 Proyectos destacados o decentes XD
