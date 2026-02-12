@@ -34,10 +34,8 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wrXVxTaTVB)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/luisyepez221)
 ---
-
 </div>
 
----
 ## ✉ Contacto
 - Email: luisyepez221@gmail.com
 
