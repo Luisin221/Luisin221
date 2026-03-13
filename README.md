@@ -1,7 +1,7 @@
 # 👋 Hola, soy Luisin
 
-:mortar_board: Estudiante de Ingeniería de Software  
-:computer: Programador en C# 
+:mortar_board: Estudiante
+:computer: Programador novato en C# 
 
 ---
 
