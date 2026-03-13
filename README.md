@@ -1,6 +1,7 @@
 # 👋 Hola, soy Luisin
 
 :mortar_board: Estudiante
+
 :computer: Programador novato en C# 
 
 ---
