@@ -12,7 +12,6 @@
 - Actualmente en tercer semestre de Ingeniería de Software
 - Me gusta crear aplicaciones educativas y proyectos prácticos, o aveces tonterías con amigos
 
-
 ---
 
 ## 🔧 Tecnologías
@@ -25,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 </div>
 
----
 
 ---
 ## 🎮 Extras
