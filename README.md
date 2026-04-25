@@ -2,12 +2,14 @@
 
 :mortar_board: Estudiante
 
-:computer: Programador novato en C# 
+:computer: Programador aprendiz 
+
+🎮 Creador de contenido aveces
 
 ---
 
 ## 🚀Sobre mí
-- Actualmente en 2do semestre de Ingeniería de Software
+- Actualmente en tercer semestre de Ingeniería de Software
 - Me gusta crear aplicaciones educativas y proyectos prácticos, o aveces tonterías con amigos
 
 
@@ -24,9 +26,6 @@
 </div>
 
 ---
-## ⭐ Proyectos destacados o decentes XD
-- :baby_bottle: **BabyCareBox** – App móvil para padres primerizos  
-- :books: **Edufy** – Software educativo de Ciencias Naturales en C#
 
 ---
 ## 🎮 Extras
