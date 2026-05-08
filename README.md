@@ -1,16 +1,17 @@
 # 👋 Hola, soy Luisin
 
-:mortar_board: Estudiante
-
-:computer: Programador aprendiz 
-
-🎮 Creador de contenido aveces
+💻 Estudiante de Ingeniería de Software
+📚 Aprendiendo C#, SQL, estructuras de datos y desarrollo web
+🎮 Me gusta crear proyectos prácticos, educativos e interactivos
 
 ---
 
-## 🚀Sobre mí
-- Actualmente en tercer semestre de Ingeniería de Software
-- Me gusta crear aplicaciones educativas y proyectos prácticos, o aveces tonterías con amigos
+## 🚀 Sobre mí
+
+* Actualmente cursando tercer semestre
+* Experiencia básica trabajando en proyectos grupales con GitHub
+* Interesado en backend, bases de datos y aplicaciones de escritorio/web
+* Siempre intentando aprender algo nuevo
 
 ---
 
@@ -21,19 +22,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
 
+---
+
+## 📌 Proyectos destacados
+
+* Aplicaciones educativas desarrolladas en C#
+* Simuladores interactivos de física en JavaScript
+* Proyectos web y sistemas de gestión académicos
 
 ---
-## 🎮 Extras
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/luisyepez221/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@luisyepez221)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wrXVxTaTVB)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/luisyepez221)
+
+## 🌐 Enlaces
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@luisyepez221)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge\&logo=twitch\&logoColor=white)](https://www.twitch.tv/luisyepez221)
+
 ---
-</div>
 
-## ✉ Contacto
-- Email: luisyepez221@gmail.com
+## ✉️ Contacto
 
+* Email: [luisyepez221@gmail.com](mailto:luisyepez221@gmail.com)
