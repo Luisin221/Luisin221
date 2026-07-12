@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Luisin
 
 <p align="center">
-  <img src="https://66.media.tumblr.com/939c7c782b21de2c78fa992cd03fd65e/908f83baf3392779-20/s1280x1920/f59fa83f2f3e595a304dea17238771ccb9806716.gif" width="100%">
+  <img src="assets/banner.gif" width="100%">
 </p>
 
 <h3 align="center">
