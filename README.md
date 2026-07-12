@@ -8,8 +8,8 @@ Currently improving my backend development, software design and database skills 
 
 ## 🚀 About Me
 
-- 🎓 Third-year Software Engineering student
-- 💻 Specialized in C#, .NET, SQL Server, and Web Development
+- 🎓 Software Engineering student
+- 💻 Experienced with C#, .NET, SQL Server and Web Development
 - 🖥️ Interested in Frontend Development and Desktop Applications
 - 📚 I enjoy transforming ideas into real projects and working as part of a team.
 
@@ -47,9 +47,9 @@ Interactive physics simulations developed with JavaScript.
 
 ---
 
+<p align="center">
+  <img src="https://images.steamusercontent.com/ugc/882006130813854086/50BBCC4917C80E0022E3D50C8060C8F7C074F811/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%">
+</p>
 
----
 
-## 📫 Contact
 
-📧 **luisyepez221@gmail.com**
