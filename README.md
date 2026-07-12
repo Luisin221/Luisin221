@@ -48,15 +48,3 @@ Interactive physics simulations developed with **JavaScript**, HTML and CSS.
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Luisin221&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisin221&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 📫 Contact
-
-📧 **luisyepez221@gmail.com**
