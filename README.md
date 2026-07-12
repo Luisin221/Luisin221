@@ -8,10 +8,10 @@ Currently improving my backend development, software design and database skills 
 
 ## 🚀 About Me
 
-- 🎓 Estudiante de Ingeniería de Software, Tercer Nivel
-- 💻 Especializado en C#, .NET, SQL Server y Desarrollo Web
-- 🖥️ Interesado en Desarrollo Frontend y Aplicaciones de Escritorio
-- 📚 Disfruto transformando ideas en proyectos reales, además de trabajar en equipo.
+- 🎓 Third-year Software Engineering student
+- 💻 Specialized in C#, .NET, SQL Server, and Web Development
+- 🖥️ Interested in Frontend Development and Desktop Applications
+- 📚 I enjoy transforming ideas into real projects and working as part of a team.
 
 ---
 
