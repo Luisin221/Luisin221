@@ -16,18 +16,16 @@ Passionate about building desktop and web applications while continuously improv
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering Student from Ecuador
+- 🎓 Software Engineering Student 
 - 💻 Experienced with **C#**, **.NET**, **SQL Server**, **HTML**, **CSS** and **JavaScript**
 - 🖥️ Interested in Desktop Applications, Frontend Development and Software Engineering
-- 🤝 Comfortable working with Git, GitHub and collaborative projects
-- 📚 Always learning through practical projects and real-world challenges
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,html,css,js,visualstudio,vscode" />
 </p>
 
 ---
@@ -40,15 +38,11 @@ Educational desktop application developed with **C# Windows Forms** to help chil
 ### ⚡ Physics Simulator
 Interactive physics simulations developed with **JavaScript**, HTML and CSS.
 
-### 🗂️ Academic Management System
-Desktop application built with **C#** and **SQL Server** for academic information management.
-
 ---
 
 ## 🎯 Currently Learning
 
 - ASP.NET Core
-- Software Architecture
 - Design Patterns
 - Backend Development
 
